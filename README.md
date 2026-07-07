@@ -17,7 +17,7 @@ Transformo dados em soluções inteligentes que aceleram decisões de negócio e
 
 Engenheiro de IA e Cientista de Dados com **5+ anos** de experiência em desenvolvimento de software e especialização em **Machine Learning, Inteligência Artificial e Analytics (2+ anos)**. Atuo no design e implementação de pipelines de dados escaláveis, desenvolvimento de modelos preditivos e soluções baseadas em LLMs, além da integração de sistemas complexos em ambientes de nuvem.
 
-- 🔭 Atualmente trabalhando como **AI Engineer na CATA**, liderando projetos de IA para RH e BI com arquitetura serverless na AWS.
+- 🔭 Atualmente atuando como **AI Engineer**, liderando projetos de IA para RH e BI com arquitetura serverless na AWS.
 - 🌱 Aprofundando conhecimentos em **RAG, agentes de IA e workflows inteligentes** (LangFlow/LangGraph).
 - 🤝 Lidero a comunidade **AWS User Group Salvador** e apoio o crescimento da comunidade global de Machine Learning da AWS.
 - 🎓 Cursando **Data Science** (Estácio) — formado em **Sistemas de Informação** pela UFBA.
@@ -27,14 +27,14 @@ Engenheiro de IA e Cientista de Dados com **5+ anos** de experiência em desenvo
 
 ## 💼 Experiência Profissional
 
-### 🤖 AI Engineer — CATA
+### 🤖 AI Engineer
 **Jun 2025 – Atualmente**
 - Desenvolvimento e implementação de soluções de IA para automação e otimização de processos críticos do negócio.
 - Liderança de projetos de IA para RH e BI com arquitetura serverless: AWS Bedrock, S3, Lambda, DynamoDB, CloudFront, CloudWatch, API Gateway e AgentCore Runtime.
 - Infraestrutura como código com **Terraform** para pipelines e sistemas de IA escaláveis.
 - Atuação com **RAG, NLP e workflows inteligentes** (LangFlow/LangGraph), com integrações em React e Python.
 
-### 💻 Systems Analyst — CATA
+### 💻 Systems Analyst
 **Jan 2025 – Jun 2025**
 - Desenvolvimento de sistemas em **React** integrados ao ERP **Protheus (TOTVS)**.
 - Criação de APIs RESTful com **SQL Server**.
