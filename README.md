@@ -20,36 +20,32 @@ Engenheiro de IA e Cientista de Dados com **5+ anos** de experiência em desenvo
 - 🔭 Atualmente atuando como **AI Engineer**, liderando projetos de IA para RH e BI com arquitetura serverless na AWS.
 - 🌱 Aprofundando conhecimentos em **RAG, agentes de IA e workflows inteligentes** (LangFlow/LangGraph).
 - 🤝 Lidero a comunidade **AWS User Group Salvador** e apoio o crescimento da comunidade global de Machine Learning da AWS.
-- 🎓 Cursando **Data Science** (Estácio) — formado em **Sistemas de Informação** pela UFBA.
-- 📫 Contato: **dev.si.jc@gmail.com** | **71 99313-0692**
+- 🎓 Cursando **Data Science**
+
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 O que venho construindo
 
-### 🤖 AI Engineer
-**Jun 2025 – Atualmente**
-- Desenvolvimento e implementação de soluções de IA para automação e otimização de processos críticos do negócio.
-- Liderança de projetos de IA para RH e BI com arquitetura serverless: AWS Bedrock, S3, Lambda, DynamoDB, CloudFront, CloudWatch, API Gateway e AgentCore Runtime.
-- Infraestrutura como código com **Terraform** para pipelines e sistemas de IA escaláveis.
-- Atuação com **RAG, NLP e workflows inteligentes** (LangFlow/LangGraph), com integrações em React e Python.
+```
+2020 ─────────────────────────────────────────────────────► hoje
+  │            │                    │                  │
+  Freela &    AWS User Group    Systems Analyst      AI Engineer
+  projetos     Salvador          (ERP + BI)         (IA + Cloud)
+```
 
-### 💻 Systems Analyst
-**Jan 2025 – Jun 2025**
-- Desenvolvimento de sistemas em **React** integrados ao ERP **Protheus (TOTVS)**.
-- Criação de APIs RESTful com **SQL Server**.
-- Containerização de aplicações com **Docker**.
-- Implementação de ferramentas de **BI Generativo** e integração de **Google Gemini/Vertex AI** e **AWS Bedrock** em soluções corporativas.
+**🤖 Construindo produtos de IA em produção**
+Arquiteturas serverless na AWS (Bedrock, Lambda, S3, DynamoDB, AgentCore Runtime) para automatizar processos de RH e BI. Terraform pra infra como código, RAG e NLP no dia a dia, e workflows de agentes orquestrados com LangFlow/LangGraph — tudo integrado com React e Python.
 
-### 🧑‍💻 Data Scientist / Software Engineer — Freelancer
-**Jan 2020 – Atualmente**
-- Projetos de Analytics e IA, desenvolvimento de sistemas Web e Mobile, e consultoria em Product Management.
+**⚙️ Ponte entre sistemas legados e IA**
+Antes disso, passei um tempo integrando **.NET, React e ERP Protheus (TOTVS)**, subindo APIs RESTful com SQL Server, containerizando tudo em Docker e plugando **Gemini/Vertex AI** e **Bedrock** em soluções corporativas que ninguém pensava que teriam IA generativa.
 
-### 👥 AWS User Groups Leader — Amazon Web Services
-**Abr 2023 – Presente**
-- Liderança da comunidade AWS em Salvador, organização de eventos técnicos e mentoria de profissionais.
-- Desde maio de 2025, apoio ao crescimento da comunidade global de Machine Learning da AWS.
-- 🔗 [meetup.com/aws-user-group-salvador](https://www.meetup.com/aws-user-group-salvador/)
+**🧑‍💻 Freelance desde sempre**
+Analytics, IA, apps Web/Mobile e consultoria de produto — projetos variados, clientes variados, sempre aprendendo algo novo em cada um.
+
+**👥 Construindo comunidade, não só código**
+Lidero o **AWS User Group Salvador**, organizando eventos técnicos e conectando gente que quer aprender cloud e IA na prática. Desde 2025 também ajudo a comunidade global de Machine Learning da AWS a crescer.
+🔗 [meetup.com/aws-user-group-salvador](https://www.meetup.com/aws-user-group-salvador/)
 
 ---
 
@@ -141,18 +137,7 @@ Engenheiro de IA e Cientista de Dados com **5+ anos** de experiência em desenvo
 
 </details>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-> ⚙️ Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para ativar as estatísticas.
-
----
 
 <div align="center">
 
