@@ -29,9 +29,9 @@ Engenheiro de IA e Arquiteto de Soluções com **5+ anos** de experiência em de
 
 ```
 2020 ─────────────────────────────────────────────────────► hoje
-  │            │                    │                  │
-  Freela &    AWS User Group    Systems Analyst      AI Engineer
-  projetos     Salvador          (ERP + BI)         (IA + Cloud)
+  │                │                   │                 │
+  Freela &    AWS User Group   solution architect    AI Engineer
+  projetos     Salvador           (Software)        (IA + Cloud)
 ```
 
 **🤖 Construindo produtos de IA em produção**
