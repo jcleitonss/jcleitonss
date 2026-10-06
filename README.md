@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou José Cleiton 👋
-### Engenheiro de IA | Cientista de Dados | Engenheiro de Software
+### Engenheiro de IA | Arquiteto de Soluções | Engenheiro de Software
 
 Transformo dados em soluções inteligentes que aceleram decisões de negócio e impulsionam a inovação tecnológica.
 
@@ -15,7 +15,7 @@ Transformo dados em soluções inteligentes que aceleram decisões de negócio e
 
 ## 🧠 Sobre mim
 
-Engenheiro de IA e Cientista de Dados com **5+ anos** de experiência em desenvolvimento de software e especialização em **Machine Learning, Inteligência Artificial e Analytics (2+ anos)**. Atuo no design e implementação de pipelines de dados escaláveis, desenvolvimento de modelos preditivos e soluções baseadas em LLMs, além da integração de sistemas complexos em ambientes de nuvem.
+Engenheiro de IA e Arquiteto de Soluções com **5+ anos** de experiência em desenvolvimento de software e especialização em **Machine Learning, Inteligência Artificial e Analytics (2+ anos)**. Atuo no design e implementação de pipelines de dados escaláveis, desenvolvimento de modelos preditivos e soluções baseadas em LLMs, além da integração de sistemas complexos em ambientes de nuvem.
 
 - 🔭 Atualmente atuando como **AI Engineer**, liderando projetos de IA para RH e BI com arquitetura serverless na AWS.
 - 🌱 Aprofundando conhecimentos em **RAG, agentes de IA e workflows inteligentes** (LangFlow/LangGraph).
